@@ -1,0 +1,15 @@
+/Users/whitneyschmidt/Projects/Phoneword_iOS/Phoneword_iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.exe
+/Users/whitneyschmidt/Projects/Phoneword_iOS/Phoneword_iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.pdb
+/Users/whitneyschmidt/Projects/Phoneword_iOS/Phoneword_iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/whitneyschmidt/Projects/Phoneword_iOS/Phoneword_iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/whitneyschmidt/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/whitneyschmidt/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/_PartialAppManifest.items
+/Users/whitneyschmidt/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/_BundleResourceWithLogicalName.items
+/Users/whitneyschmidt/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/_PartialAppManifest.items
+/Users/whitneyschmidt/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/whitneyschmidt/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/
+/Users/whitneyschmidt/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.csprojAssemblyReference.cache
+/Users/whitneyschmidt/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.csproj.CoreCompileInputs.cache
+/Users/whitneyschmidt/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.csproj.CopyComplete
+/Users/whitneyschmidt/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.exe
+/Users/whitneyschmidt/Projects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.pdb
